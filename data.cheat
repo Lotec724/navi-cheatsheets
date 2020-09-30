@@ -1,0 +1,19 @@
+% data
+
+# MySQL CLI
+mycli
+
+# Midnight Commander Terminal FileExplorer
+mc
+
+# Numbered Lines for output
+nl
+
+# Sorting data
+sort
+
+# Change access
+chmod
+
+# Change ownership
+chown

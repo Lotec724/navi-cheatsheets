@@ -3,6 +3,9 @@
 # Monitoring overview
 nmon
 
+# Process monitoring
+htop
+
 # HDD Status
 duf
 
@@ -17,3 +20,6 @@ nmap
 
 # HDD Temps
 hddtemp
+
+# Network Connections
+netstat

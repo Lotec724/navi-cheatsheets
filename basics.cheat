@@ -1,0 +1,58 @@
+% basics
+
+# Manuals
+man <command>
+
+# Show progress of long running process
+pv
+
+# Change Directory
+cd
+
+# List Directory
+ls
+
+# List Directory as List
+ls -l
+
+# create Directory
+mkdir <dirname>
+
+# Copy File
+cp <src> <destination>
+
+# Move File
+mv <src> <destination>
+
+# Create File
+touch <filename>
+
+# Delete File
+rm <file>
+
+# Output to file
+<command> > <filename>.txt
+
+# Search for strings in files
+grep
+
+# History of commands
+history
+
+# Execute command without recording history
+<space> command
+
+# Execute command from history
+!<Number>
+
+# List logged in users
+who
+
+# Calendar
+cal
+
+# Date and Time
+date
+
+# Calculator
+bc

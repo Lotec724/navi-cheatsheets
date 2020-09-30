@@ -29,3 +29,6 @@ pipes.sh
 
 # Wiki in Terminal
 wikit <Search>
+
+# Message of the Day Test
+run-parts /etc/update-motd.d/
