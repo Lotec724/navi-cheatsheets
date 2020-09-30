@@ -1,0 +1,22 @@
+% fun
+
+# Enter the Matrix
+cmatrix
+
+# Banner text
+figlet <Text>
+
+# Colorful Outputs, use as pipe
+lolcat
+
+# Fortune cookie
+fortune
+
+# ASCII animals
+cowsay
+
+# Calculate Pi
+pi <Digits>
+
+# Star Wars ASCII
+telnet towel.blinkenlights.nl
