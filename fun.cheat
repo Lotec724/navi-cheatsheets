@@ -12,6 +12,9 @@ lolcat
 # Fortune cookie
 fortune
 
+# Weather
+curl http://wttr.in/<City>
+
 # ASCII animals
 cowsay
 
@@ -20,3 +23,9 @@ pi <Digits>
 
 # Star Wars ASCII
 telnet towel.blinkenlights.nl
+
+# pipes screensaver
+pipes.sh
+
+# Wiki in Terminal
+wikit <Search>

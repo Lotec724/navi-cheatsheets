@@ -1,0 +1,19 @@
+% monitoring
+
+# Monitoring overview
+nmon
+
+# HDD Status
+duf
+
+# Bandwhich
+sudo ~/.cargo/bin/bandwhich
+
+# Ping with stats
+gping <IP>
+
+# Port info
+nmap
+
+# HDD Temps
+hddtemp
